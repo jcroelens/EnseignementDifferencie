@@ -25,3 +25,7 @@ body {
 .hero-unit form {
 	margin-bottom: 5px;
 }
+
+.test {
+	height: 300px;
+}
